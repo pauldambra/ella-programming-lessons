@@ -1,6 +1,8 @@
 
 # Ella's computer lessons
 
+## lesson 1
+
  * how do you save (CMD + S)
  * how to do CMD + Tab
  * how to put an img in the HTML
